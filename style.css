@@ -1,0 +1,30 @@
+body{
+    background-color:#FFCC66;
+    background-image: url("images/image.png");
+    background-size: 
+    
+}
+p{font-style: italic;
+    
+}
+
+h1 {
+    color: #990000;
+    background-color:#FC9804;
+    text-align: center;
+}
+
+span{
+    font-weight: bold;
+
+}
+
+#paragrafo200{
+    color:#990000;
+    background-color:white;
+    font-family:'Courier New', Courier, monospace;
+    font-size: 200pt;
+}
+
+
+
